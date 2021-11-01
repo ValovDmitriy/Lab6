@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab6_1", "Lab6\Lab6_1.csproj", "{6F8158BD-623F-44E5-A134-B0C39AB1A6D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab 6_2", "Lab 6_2\Lab 6_2.csproj", "{99B5AECB-73D2-4C20-B43D-1D0FDB262647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab6_3", "Lab6_3\Lab6_3.csproj", "{BAE378B8-363E-4E35-9213-1027A56388DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F8158BD-623F-44E5-A134-B0C39AB1A6D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8158BD-623F-44E5-A134-B0C39AB1A6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8158BD-623F-44E5-A134-B0C39AB1A6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8158BD-623F-44E5-A134-B0C39AB1A6D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B5AECB-73D2-4C20-B43D-1D0FDB262647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B5AECB-73D2-4C20-B43D-1D0FDB262647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B5AECB-73D2-4C20-B43D-1D0FDB262647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B5AECB-73D2-4C20-B43D-1D0FDB262647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAE378B8-363E-4E35-9213-1027A56388DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE378B8-363E-4E35-9213-1027A56388DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE378B8-363E-4E35-9213-1027A56388DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE378B8-363E-4E35-9213-1027A56388DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA07F09F-7EFC-4BCF-9BCC-F27391D9D33A}
+	EndGlobalSection
+EndGlobal
